@@ -1,12 +1,23 @@
 # angular2-resources
 A collection of resources for angular2
 
-General Resources
+<h4>General Resources</h4>
+/* <ul>
+<li></li>
+</ul> */
 
-Routing
-<a href="http://blog.thoughtram.io/angularjs/2015/02/19/futuristic-routing-in-angular.html">Routing1</a>
+<h4>Routing</h4>
+<ul>
+<li><a href="http://blog.thoughtram.io/angularjs/2015/02/19/futuristic-routing-in-angular.html">Routing1</a></li>
+</ul>
 
-Components
+<h4>Components</h4>
+/* <ul>
+<li></li>
+</ul> */
 
-Directives
+<h4>Directives</h4>
+/* <ul>
+<li></li>
+</ul> */
 

@@ -2,9 +2,9 @@
 A collection of resources for angular2
 
 <h4>General Resources</h4>
-/* <ul>
+<!-- <ul>
 <li></li>
-</ul> */
+</ul> -->
 
 <h4>Routing</h4>
 <ul>
@@ -12,12 +12,12 @@ A collection of resources for angular2
 </ul>
 
 <h4>Components</h4>
-/* <ul>
+<!-- <ul>
 <li></li>
-</ul> */
+</ul> -->
 
 <h4>Directives</h4>
-/* <ul>
+<!-- <ul>
 <li></li>
-</ul> */
+</ul> -->
 
